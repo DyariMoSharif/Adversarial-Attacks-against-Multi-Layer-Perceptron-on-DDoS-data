@@ -1,4 +1,4 @@
-**Author:** Dyari Mohammed Sharif  
+**Author:** Dyari Mohammed Sharif (Google Scholar Profile: https://scholar.google.com/citations?user=tfdtpGEAAAAJ&hl=en&oi=ao)
 
 # Adversarial Attacks against Multi-Layer Perceptron on DDoS data
 > This repository contains the implementation and experimental notebooks for the published paper **“Adversarial Attacks against Multi-Layer Perceptron on DDoS data”**.
